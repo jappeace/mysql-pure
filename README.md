@@ -1,5 +1,13 @@
+Archived
+==========
+
+I got access to mysql-pure and will keep the build working on that instead.
+See [announcement](https://jappie.me/bonus-announcement-mysql-pure-unfork.html).
+
 mysql-pure
 =============
+
+
 
 This is a fork of [mysql-haskell](https://hackage.haskell.org/package/mysql-haskell).
 It merges in:
